@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Web development projects.
-- 📫 How to reach me +254720828353
+- 📫 How to reach me +254720828353 & kayumbagaga@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
