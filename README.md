@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gary-crtl
+- 👋 Hi, I’m @Gary-ctrl
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Web development projects.
